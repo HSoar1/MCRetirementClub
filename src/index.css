@@ -1,0 +1,13 @@
+div#main {
+    background-color: #ffffff;
+    width: 584px;
+    float: left;
+    }
+    
+    nav {
+    color: #000000;
+    background-color: #e0e0e0;
+    width: 200px;
+    height: 100%;
+    float: left;
+    }
