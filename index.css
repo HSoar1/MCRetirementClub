@@ -1,13 +1,24 @@
 div#main {
     background-color: #ffffff;
-    width: 584px;
+    width: 80%;
     float: left;
-    }
+}
     
-    nav {
+nav {
     color: #000000;
     background-color: #e0e0e0;
     width: 200px;
     height: 100%;
     float: left;
-    }
+}
+
+/*
+nav a{
+    color: #333;
+}
+*/
+
+nav li{
+    list-style: none; 
+    padding-bottom: 5px; 
+}
